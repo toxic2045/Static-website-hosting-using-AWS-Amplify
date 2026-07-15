@@ -9,7 +9,7 @@ This project was built as part of my cloud computing learning journey and demons
 
 ## Live Demo
 
-[View Live Website](https://main.d162m11humd2dz.amplifyapp.com/)
+[View Live Website](https://main.d162m11humd2dz.amplifyapp.com/) --MIGHT NOT WORK IN FUTURE AS APP CAN BE SHUTDOWN TO SAVE CREDITS
 
 ## Project Overview
 
