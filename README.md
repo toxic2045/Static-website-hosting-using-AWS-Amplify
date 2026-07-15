@@ -50,6 +50,9 @@ It is designed to demonstrate how a static site can be hosted on AWS with automa
 │   └── images/
 └── README.md
 ```
+!<img width="2848" height="1600" alt="generated-image" src="https://github.com/user-attachments/assets/b4b1cd95-8e28-49da-b5bd-03bb40ec32fa" />
+
+
 
 ## How It Works
 
